@@ -30,4 +30,4 @@ Options:
 $ ./pngencode assets/saintpablo.mp3 assets/saintpablo.png
 ```
 
-<p align="center"> test </p>
+<p align="center"> <img src="./assets/saintpablo.png" alt="saintpablo.png"> </p>
